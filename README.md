@@ -1,6 +1,6 @@
 # Webpack - Module Federation
 
-A template for a project using Webpack with Module Federation, Typescript and TailwindCSS.
+A template for a project using Webpack with Module Federation, React, Typescript and TailwindCSS.
 
 To install dependencies, execute:
 
